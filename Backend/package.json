@@ -1,11 +1,10 @@
 {
   "name": "react_realtime_chat_app_backend",
-  "author": "Ashley Bibizadeh",
+  "author": "",
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "",
   "dependencies": {
     "express": "^4.16.4",
-    "moment": "^2.22.2",
     "socket.io": "^2.1.1"
   },
   "devDependencies": {
